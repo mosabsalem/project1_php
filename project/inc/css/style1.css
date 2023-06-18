@@ -1,0 +1,96 @@
+
+body {
+    background-color:rgba(233, 233, 243, 0.678);
+    font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 50px;
+}
+.h{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.f{
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+#mother{  
+    margin: auto;
+    text-align: center;
+    width: 300px;
+    border: 1px solid black;
+    padding: 15px;
+    font-size: 20px;
+    background-color:chartreuse;
+    color: black;
+
+}
+
+input{
+    border-radius: 15px;
+    background-color: white;
+    padding: 4px;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ button{
+    width: 190px;
+    padding: 8px;
+    margin-top: 7px;
+    font-size: 17px;
+    background-color: yellowgreen;
+    font-weight: bold;
+    border-radius: 15px;
+}
+ 
+/* Studenten Tab */
+ main{
+    padding: 5px;
+    margin: auto;
+} 
+
+#tbl{
+    width: 800px;
+    font-size: 20px;
+    text-align: center;
+    margin: auto;
+    
+}
+
+#tbl th{
+    background-color: chartreuse;
+    color: blue;
+    font-size: 20px;
+    padding: 10px;
+    
+    
+}
+
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse ;
+}
+td {
+    padding: 6px;
+    margin: 0%;
+}
+ 
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    margin-bottom: 50px;
+
+}
+
+h2{
+    text-align: center;
+} 
+p{
+    text-align: center;
+    font-style: normal;
+    font-size: larger;
+}
